@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <string name="credits">Credits</string>
+    <!-- error strings -->
+    <string name="connection_error">Bir şeyler ters gitti!\nMuhtemelen internet bağlantınızda bir sorun var.Lütfen bağlantınızı kontrol edin.</string>
+    <string name="storage_perm_error">Lütfen depolama alanına erişim izni verin!!</string>
+    <!-- download strings -->
+    <string name="download_desc">Android Sürümü ve Sistem Mimarisi'ni seçin.</string>
+    <string name="input_android">Android Sürümü</string>
+    <string name="input_arch">Sistem Mimarisi</string>
+    <string name="input_arch_empty">Select Android Platform!</string>
+    <string name="input_android_empty">Android Sürümünü Seçin!</string>
+    <string name="input_dialog_title">Lütfen Seçim Yapın</string>
+    <string name="download_button">İndir</string>
+    <string name="downloading">İndirme İşlemi Başladı!!\nAyrıntılar için bildirimlere bakın..</string>
+    <!-- Config file strings -->
+    <string name="config_maker_header">Yapılandırma Dosyası</string>
+    <string name="config_button">İndir</string>
+    <string name="config_file_created">İndirme İşlemi Tamamlandı!</string>
+    <!-- Device info strings -->
+    <string name="device_info_header">Cihaz Hakkında/string>
+    <string name="device_model">Model</string>
+    <string name="device_architecture">Sistem Mimarisi</string>
+    <string name="device_android">Android Sürümü</string>
+    <!-- social links header -->
+    <string name="contact_header">İlgili Bağlantılar</string>
+    <!-- Copyright string -->
+    <string name="copyright">Copyright © 2018-2022 The BiTGApps Project</string>
+</resources>
