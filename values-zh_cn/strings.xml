@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <string name="credits">致谢</string>
+    <!-- error strings -->
+    <string name="connection_error">发生了一些错误!\n您可能需要检查网络连接.</string>
+    <string name="storage_perm_error">请授予存储访问权限!</string>
+    <!-- download strings -->
+    <string name="download_desc">选择安卓版本和系统架构.</string>
+    <string name="input_android">安卓版本</string>
+    <string name="input_arch">系统架构</string>
+    <string name="input_arch_empty">请选择系统架构!</string>
+    <string name="input_android_empty">请选择安卓版本!</string>
+    <string name="input_dialog_title">请选择</string>
+    <string name="download_button">下载</string>
+    <string name="downloading">下载开始!\n您可以从通知栏查看更多信息.</string>
+    <!-- Config file strings -->
+    <string name="config_maker_header">配置文件</string>
+    <string name="config_button">下载</string>
+    <string name="config_file_created">下载完成!</string>
+    <!-- Device info strings -->
+    <string name="device_info_header">设备信息</string>
+    <string name="device_model">型号</string>
+    <string name="device_architecture">系统架构</string>
+    <string name="device_android">安卓版本</string>
+    <!-- social links header -->
+    <string name="contact_header">关注我们</string>
+    <!-- Copyright string -->
+    <string name="copyright">版权所有 © 2018-2022 The BiTGApps Project</string>
+</resources>
