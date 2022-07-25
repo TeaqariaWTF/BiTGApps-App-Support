@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BiTGApps</string>
+    <string name="credits">Credits</string>
+    <!-- error strings -->
+    <string name="connection_error">Something went wrong!\nProbably check your internet connection.</string>
+    <string name="storage_perm_error">Please grant storage permission!</string>
+    <!-- download strings -->
+    <string name="download_desc">Select Android Version and System Architecture.</string>
+    <string name="input_android">Android Version</string>
+    <string name="input_arch">System Architecture</string>
+    <string name="input_arch_empty">Select Android Platform!</string>
+    <string name="input_android_empty">Select Android Version!</string>
+    <string name="input_dialog_title">Please Select</string>
+    <string name="download_button">Download</string>
+    <string name="downloading">Download Started!\nSee notification for details.</string>
+    <!-- Config file strings -->
+    <string name="config_maker_header">Configuration File</string>
+    <string name="config_button">Download</string>
+    <string name="config_file_created">Download Complete!</string>
+    <!-- Device info strings -->
+    <string name="device_info_header">Device Information</string>
+    <string name="device_model">Model</string>
+    <string name="device_architecture">System Architecture</string>
+    <string name="device_android">Android Version</string>
+    <!-- social links header -->
+    <string name="contact_header">Social Links</string>
+    <!-- Copyright string -->
+    <string name="copyright">Copyright © 2018-2022 The BiTGApps Project</string>
+</resources>
